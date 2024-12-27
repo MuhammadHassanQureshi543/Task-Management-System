@@ -1,0 +1,20 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Build folders
+bin/
+obj/
+out/
+
+# User-specific files
+*.rsuser
+*.userprefs
+
+# Logs
+*.log
+
+# Secrets
+appsettings.json
+appsettings.*.json
